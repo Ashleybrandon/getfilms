@@ -1,0 +1,20 @@
+ul {
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+.card {
+    width: 18rem;
+    margin: 1rem;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.films-list {
+    justify-content: center;
+}
